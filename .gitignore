@@ -10,3 +10,4 @@ wheels/
 .venv
 ./deploy.bat
 ./old_part.py
+.idea
