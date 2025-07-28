@@ -8,3 +8,5 @@ wheels/
 
 # Virtual environments
 .venv
+./deploy.bat
+./old_part.py
